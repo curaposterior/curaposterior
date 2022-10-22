@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on many thing
-- 📫 How to reach me: dm
+- 📫 How to reach me: dms
 
 <!---
 curaposterior/curaposterior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
